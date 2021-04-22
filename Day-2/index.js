@@ -28,6 +28,9 @@ request('http://google.com', function(){
 
 console.log("Soy el mensaje que va despues de la peticion a Google");
 
+console.log("Soy el tercer mensaje");
+
+console.log("Soy el cuarto mensaje");
 
 //Lo que sucede es que primero aparece el segundo mensaje, porque la 
 //primera peticion no bloquea el codigo. Lo que quiere decir que el 
