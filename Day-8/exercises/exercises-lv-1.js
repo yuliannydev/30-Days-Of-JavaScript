@@ -1,19 +1,22 @@
-let challenge = '30 Days Of JavaScript';
-
-console.log(challenge);
+let challenge = ['30', 'Days', 'Of', 'JavaScript'];
+let quote = '30 Days Of JavaScript';
+//console.log(challenge);
 
 /* console.log(challenge.length);
 console.log(challenge.toUpperCase());
 console.log(challenge.toLowerCase());
-console.log(challenge.substr(3, 5));
-console.log(challenge.slice(3));
-console.log(challenge.includes('Script'));
+console.log(challenge.substr(3, 5)); */
+
+challenge.splice(2, 3);
+console.log(challenge);
+console.log(quote.slice(3))
+/* console.log(challenge.includes('Script'));
 console.log(challenge.split(''));
 console.log(challenge.split(' '));  */
 
 /* let org = 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon'
-console.log(org.split(', ')); */
-
+console.log(org.split(' '));
+ */
 /* console.log(challenge.replace('JavaScript', 'Go'));
 console.log(challenge.charAt(15));
 console.log(challenge.charCodeAt('J'));

@@ -4,7 +4,7 @@
 
 console.log(sentences.includes('jargon')); */
 
-//Random number function generate
+/* //Random number function generate
 
 function randomInt(min, max){
 
@@ -19,7 +19,19 @@ console.log(randomInt(0, 100));
 console.log(randomInt(50, 100));
 
 //Generate a random number between 0 and 250 inclusively.
-console.log(randomInt(0, 250));
+console.log(randomInt(0, 250)); */
 
 
 //Access the 'JavaScript' string characters using a random number. */
+
+/* 
+//Use console.log() and escape characters to print the following pattern.
+1 1 1 1 1
+2 1 2 4 8
+3 1 3 9 27
+4 1 4 16 64
+5 1 5 25 125 */
+
+let sentence = ('You cannot end a sentence with because because because is a conjunction');
+
+console.log(sentence.match('because'));
