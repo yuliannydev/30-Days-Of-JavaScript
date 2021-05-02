@@ -27,3 +27,11 @@
  * - Los cuantificadores
  * - Unicode property escapes
  */
+
+/**
+ * Se puede modificar el comportamiento de expresiones regulares a traves del uso de banderas
+ * Existen 6 tipos de banderas, y se conocen porque se colocan al final de "/"
+ * 
+ * 
+ * 
+ **/
