@@ -4,7 +4,4 @@
     - Busqueda con expresiones regulares.
     - Reemplazando patrones.
     - Rangos en regex.
-    - Agrupamiento.
-    - Cantificadores.
-    - Ejercicio final regex
 - Resolví 5 ejercicios del curso de JavaScript de Freecodecamp.

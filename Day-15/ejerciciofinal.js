@@ -1,0 +1,1 @@
+console.log('/https?:\/\/(S+\.)?\S+(\.\S+)(\.\S+)?'.match('https'));
